@@ -1,0 +1,11 @@
+/* Add your CSS styles here */
+/* Example styles for the input and button */
+input[type="text"] {
+    padding: 8px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 8px 16px;
+    cursor: pointer;
+}
