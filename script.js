@@ -1,3 +1,9 @@
+const students = [
+    { roll_number: 1, name: "Alice", marks: 85 },
+    { roll_number: 2, name: "Bob", marks: 78 },
+    { roll_number: 3, name: "Charlie", marks: 92 }
+    // Other student records...
+];
 function fetchResult() {
     const rollNumber = document.getElementById('rollNumber').value;
     const resultDiv = document.getElementById('result');
